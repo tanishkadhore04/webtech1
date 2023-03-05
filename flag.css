@@ -1,0 +1,31 @@
+body {background: beige}
+
+.flag{
+	height: 200px;
+	width: 300px;
+	background-color:white;
+	position:absolute;
+	margin:auto;
+}
+.right {
+	float: right;
+}
+
+.box{ 
+	height: 200px;
+	width: 100px;
+
+}
+.black{
+	background-color: black;
+}
+.yellow{
+	background-color: yellow;
+}
+.red{
+	background-color: red;
+}
+
+.right {
+	float: right;
+}
